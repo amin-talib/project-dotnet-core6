@@ -1,0 +1,17 @@
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.exe
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.deps.json
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.runtimeconfig.json
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.dll
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.pdb
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.csproj.AssemblyReference.cache
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.AssemblyInfoInputs.cache
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.AssemblyInfo.cs
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.csproj.CoreCompileInputs.cache
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.csproj.CopyComplete
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.dll
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\obj\Debug\net6.0\refint\EmitLogDirect.dll
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.pdb
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.genruntimeconfig.cache
+C:\Users\PC\Food.RabbitMQ\EmitLogDirect\obj\Debug\net6.0\ref\EmitLogDirect.dll

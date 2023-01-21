@@ -1,0 +1,17 @@
+C:\Users\PC\Food.RabbitMQ\Send\bin\Debug\net6.0\Send.exe
+C:\Users\PC\Food.RabbitMQ\Send\bin\Debug\net6.0\Send.deps.json
+C:\Users\PC\Food.RabbitMQ\Send\bin\Debug\net6.0\Send.runtimeconfig.json
+C:\Users\PC\Food.RabbitMQ\Send\bin\Debug\net6.0\Send.dll
+C:\Users\PC\Food.RabbitMQ\Send\bin\Debug\net6.0\Send.pdb
+C:\Users\PC\Food.RabbitMQ\Send\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\PC\Food.RabbitMQ\Send\obj\Debug\net6.0\Send.csproj.AssemblyReference.cache
+C:\Users\PC\Food.RabbitMQ\Send\obj\Debug\net6.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Food.RabbitMQ\Send\obj\Debug\net6.0\Send.AssemblyInfoInputs.cache
+C:\Users\PC\Food.RabbitMQ\Send\obj\Debug\net6.0\Send.AssemblyInfo.cs
+C:\Users\PC\Food.RabbitMQ\Send\obj\Debug\net6.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\PC\Food.RabbitMQ\Send\obj\Debug\net6.0\Send.csproj.CopyComplete
+C:\Users\PC\Food.RabbitMQ\Send\obj\Debug\net6.0\Send.dll
+C:\Users\PC\Food.RabbitMQ\Send\obj\Debug\net6.0\refint\Send.dll
+C:\Users\PC\Food.RabbitMQ\Send\obj\Debug\net6.0\Send.pdb
+C:\Users\PC\Food.RabbitMQ\Send\obj\Debug\net6.0\Send.genruntimeconfig.cache
+C:\Users\PC\Food.RabbitMQ\Send\obj\Debug\net6.0\ref\Send.dll
